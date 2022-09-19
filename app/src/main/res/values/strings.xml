@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MiniAndroidApp08-Dialog</string>
+    <string name="buttton_dialog">ダイアログを表示！</string>
 </resources>
